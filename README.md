@@ -49,6 +49,7 @@ public/assets/
 scripts/localize-images.mjs
 styles/scrollbar.css
 DEPLOYMENT.md
+app.js
 next.config.mjs
 ```
 
@@ -56,5 +57,8 @@ The display face is **Space Grotesk**, selected for its precise, technical geome
 
 All routes and marketing copy are generated from files in `data`. Add a complete service object to a category in `services.json`, reference valid related service slugs, and rebuild to prerender the new detail route.
 
-Deploy to a Node.js-capable Next.js host so the internal contact route can send email securely.
+Deploy to a Node.js-capable Next.js host so the internal contact route can send email securely. The root `app.js` file is the production startup file required by cPanel/Passenger.
 Set `NEXT_PUBLIC_CONTACT_FORM_ENABLED=true` when SMTP delivery is ready.
+
+See `DEPLOYMENT.md` for the complete Namecheap Stellar Plus cPanel setup,
+upload, build, domain, SSL, and testing instructions.
