@@ -20,7 +20,7 @@ html { scroll-behavior: smooth; }
 html,body { max-width: 100%; overflow-x: hidden; }
 body { margin: 0; color: var(--ink); background: var(--white); font-family: var(--font-body), sans-serif; font-size: 16px; line-height: 1.65; -webkit-font-smoothing: antialiased; }
 body.drawer-open { overflow: hidden; }
-main { width: 100%; overflow-x: clip; }
+main { width: 100%; padding-top: 78px; overflow-x: clip; }
 img,iframe { max-width: 100%; }
 body::before { content: ""; position: fixed; inset: 0; opacity: .035; pointer-events: none; z-index: 50; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.95' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.7'/%3E%3C/svg%3E"); }
 h1,h2,h3,p { margin-top: 0; }
@@ -41,7 +41,7 @@ button { cursor: pointer; }
 .skip-link { position: fixed; top: 8px; left: 8px; z-index: 9999; background: white; padding: 9px 14px; transform: translateY(-150%); }
 .skip-link:focus { transform: none; }
 
-.navbar { height: 78px; background: rgba(255,255,255,.96); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 100; backdrop-filter: blur(14px); }
+.navbar { width: 100%; height: 78px; background: rgba(255,255,255,.96); border-bottom: 1px solid var(--line); position: fixed; top: 0; left: 0; z-index: 100; backdrop-filter: blur(14px); }
 .nav-inner { width: min(1320px, calc(100% - 40px)); height: 100%; margin: auto; display: flex; align-items: center; }
 .brand { display: flex; margin-right: auto; }
 .brand img { width: 166px; height: auto; object-fit: contain; }
@@ -89,7 +89,8 @@ button { cursor: pointer; }
 .carousel-meta > div:first-child { display: flex; align-items: baseline; gap: 15px; margin-right: 30px; }
 .carousel-meta span { color: var(--cyan); font-size: 11px; }
 .carousel-controls { display: flex; gap: 8px; pointer-events: auto; }
-.carousel-controls button { width: 47px; height: 47px; border-radius: 50%; color: white; border: 1px solid rgba(255,255,255,.35); background: rgba(4,14,34,.3); }
+.carousel-controls button { width: 47px; height: 47px; flex: 0 0 47px; display: grid; place-items: center; border-radius: 50%; color: white; border: 1px solid rgba(255,255,255,.35); background: rgba(4,14,34,.3); line-height: 1; }
+.carousel-controls button svg { width: 20px; height: 20px; display: block; }
 .carousel-dots { display: none; }
 
 .intro-section { background: white; }
@@ -236,6 +237,7 @@ button { cursor: pointer; }
 .direct-contact-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 14px; }
 .direct-contact-grid > * { min-height: 270px; padding: 30px; display: flex; flex-direction: column; align-items: flex-start; border: 1px solid rgba(255,255,255,.14); background: rgba(255,255,255,.035); transition: .25s ease; }
 .direct-contact-grid > a:hover { border-color: var(--cyan); background: rgba(35,215,255,.08); transform: translateY(-4px); }
+.direct-contact-grid > article:hover { border-color: var(--cyan); background: rgba(35,215,255,.08); transform: translateY(-4px); }
 .direct-contact-grid svg { color: var(--cyan); }
 .direct-contact-grid span { margin-top: 42px; color: #91a2ba; text-transform: uppercase; letter-spacing: .13em; font-size: 10px; font-weight: 800; }
 .direct-contact-grid strong { margin-top: 9px; font: 700 20px/1.35 var(--font-display); }
@@ -259,7 +261,7 @@ button { cursor: pointer; }
 .questions-cta h2 { max-width: 800px; font-size: clamp(32px,4vw,52px); margin-bottom: 0; }
 .visit-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 18px; }
 .map-frame { min-height: 520px; }
-.map-frame iframe { width: 100%; height: 100%; border: 0; filter: grayscale(1) contrast(1.05); }
+.map-frame iframe { width: 100%; height: 100%; border: 0; }
 .contact-cards { display: grid; gap: 12px; }
 .contact-cards article { display: grid; grid-template-columns: 35px 1fr; gap: 15px; padding: 25px; background: var(--paper); border: 1px solid var(--line); }
 .contact-cards svg { color: var(--blue); }
@@ -339,6 +341,7 @@ button { cursor: pointer; }
 @media (max-width: 600px) {
   .container { width: min(100% - 32px,1180px); }
   .section { padding: 78px 0; }
+  main { padding-top: 68px; }
   .navbar { height: 68px; }.brand img { width: 144px; }
   .home-hero { min-height: calc(100svh - 68px); }
   .hero-copy { padding: 70px 0 125px; }

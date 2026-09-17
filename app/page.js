@@ -84,8 +84,8 @@ export default function HomePage() {
 
       <section className="section testimonial-section">
         <div className="container">
-          <SectionHeading {...page.testimonials} />
-          <div className="testimonial-grid">
+          {/* <SectionHeading {...page.testimonials} /> */}
+          {/* <div className="testimonial-grid">
             {testimonials.map((item, index) => (
               <article key={item.name} data-aos="fade-up" data-aos-delay={index * 80}>
                 <Quote size={32} />
@@ -95,7 +95,7 @@ export default function HomePage() {
                 <blockquote>{item.quote}</blockquote><div><strong>{item.name}</strong><span>{item.role}{item.industry ? ` · ${item.industry}` : ""}</span></div>
               </article>
             ))}
-          </div>
+          </div> */}
         </div>
       </section>
       {page.faqs?.items?.length > 0 && (
