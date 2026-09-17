@@ -1,0 +1,24 @@
+html {
+  scrollbar-width: thin;
+  scrollbar-color: var(--blue) var(--paper);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--paper);
+}
+
+::-webkit-scrollbar-thumb {
+  min-height: 48px;
+  border: 2px solid var(--paper);
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--blue), #0d46c7);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--orange);
+}

@@ -1,0 +1,6 @@
+[
+  { "label": "Home", "href": "/" },
+  { "label": "About Us", "href": "/about" },
+  { "label": "Services", "href": "/services", "megaMenu": true },
+  { "label": "Contact Us", "href": "/contact" }
+]

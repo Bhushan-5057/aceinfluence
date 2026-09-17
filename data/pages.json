@@ -1,0 +1,544 @@
+{
+  "navigation": {
+    "skip": "Skip to content",
+    "megaEyebrow": "Connected digital capabilities",
+    "megaText": "One accountable Canadian team across software development, cybersecurity, cloud, infrastructure, and support.",
+    "viewAll": "View all services",
+    "contactButton": "Let’s talk"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Development • Cybersecurity • Managed IT",
+      "title": "Build boldly. Operate securely.",
+      "text": "Ace Influence designs digital products, protects critical systems, and manages the technology growing organizations depend on—from our base in Mississauga, Ontario.",
+      "primaryCta": "Talk to an expert",
+      "secondaryCta": "Explore services",
+      "slides": [
+        {
+          "image": "/assets/images/content/photo-1461749280684-dccba630e2f6.jpg",
+          "label": "Secure software built for growth",
+          "number": "01"
+        },
+        {
+          "image": "/assets/images/content/photo-1563013544-824ae1b704d3.jpg",
+          "label": "Practical cyber resilience",
+          "number": "02"
+        },
+        {
+          "image": "/assets/images/content/photo-1558494949-ef010cbdcc31.jpg",
+          "label": "Reliable cloud and managed IT",
+          "number": "03"
+        }
+      ]
+    },
+    "intro": {
+      "eyebrow": "One accountable technology partner",
+      "title": "Digital products and secure foundations, engineered together.",
+      "text": "Disconnected developers, security vendors, and infrastructure providers create expensive gaps. Ace Influence brings software engineering, cybersecurity, cloud, networking, and managed support together. We translate business priorities into useful products, resilient architecture, controlled delivery, and responsive service."
+    },
+    "services": {
+      "eyebrow": "What we deliver",
+      "title": "From the first line of code to the last line of defence.",
+      "text": "Engage us for a focused assessment, a new digital product, a complex modernization, or a fully managed technology environment.",
+      "image": "/assets/images/content/photo-1518770660439-4636190af475.jpg"
+    },
+    "vision": {
+      "eyebrow": "Our vision & goal",
+      "title": "Make secure digital innovation accessible to every ambitious organization.",
+      "text": "We believe development and security work best as one discipline: experiences should be useful, systems should be resilient, and risk should be visible. Our goal is to give Canadian organizations one expert partner who turns ideas and complexity into measurable outcomes.",
+      "stats": [
+        {
+          "value": "24/7",
+          "label": "monitoring and service visibility"
+        },
+        {
+          "value": "35+",
+          "label": "integrated technology services"
+        },
+        {
+          "value": "5",
+          "label": "connected capability practices"
+        },
+        {
+          "value": "<1 day",
+          "label": "enquiry response target"
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "How we work",
+      "title": "Clear ownership from first question to continuous improvement.",
+      "text": "Every engagement is shaped by evidence, designed around outcomes, and delivered with transparent decisions.",
+      "items": [
+        {
+          "number": "01",
+          "title": "Understand",
+          "text": "We map goals, users, workflows, assets, dependencies, threats, and constraints."
+        },
+        {
+          "number": "02",
+          "title": "Engineer",
+          "text": "A documented solution defines experience, architecture, security, scope, ownership, and acceptance criteria."
+        },
+        {
+          "number": "03",
+          "title": "Deliver",
+          "text": "Specialists build and deploy in controlled increments, communicate progress, and test every outcome."
+        },
+        {
+          "number": "04",
+          "title": "Support",
+          "text": "Monitoring, documentation, training, and reviews keep products and platforms effective over time."
+        }
+      ]
+    },
+    "proof": {
+      "eyebrow": "Why Ace Influence",
+      "title": "Business thinking backed by engineering discipline.",
+      "items": [
+        {
+          "title": "Secure by design",
+          "text": "Threat modeling, least privilege, testing, and resilient recovery are built into products and platforms.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "One connected team",
+          "text": "Developers, designers, security specialists, cloud engineers, and support professionals work toward the same outcome.",
+          "icon": "Users"
+        },
+        {
+          "title": "Evidence over assumptions",
+          "text": "Discovery, telemetry, testing, and measurable acceptance criteria keep decisions grounded.",
+          "icon": "ChartNoAxesCombined"
+        },
+        {
+          "title": "Ownership after launch",
+          "text": "Documentation, knowledge transfer, monitoring, and ongoing improvement protect long-term value.",
+          "icon": "Handshake"
+        }
+      ]
+    },
+    "industries": {
+      "eyebrow": "Industry context",
+      "title": "Technology shaped around the way your organization works.",
+      "items": [
+        {
+          "title": "Professional Services",
+          "text": "Secure client collaboration, workflow platforms, and dependable hybrid operations.",
+          "image": "/assets/images/content/photo-1454165804606-c3d57bc86b40.jpg"
+        },
+        {
+          "title": "Manufacturing & Distribution",
+          "text": "Connected sites, operational visibility, cyber protection, and resilient supply-chain systems.",
+          "image": "/assets/images/content/photo-1565793298595-6a879b1d9492.jpg"
+        },
+        {
+          "title": "Retail & E-commerce",
+          "text": "Conversion-ready commerce, integrated operations, protected customer data, and reliable stores.",
+          "image": "/assets/images/content/photo-1441986300917-64674bd600d8.jpg"
+        },
+        {
+          "title": "Nonprofits & Growing Teams",
+          "text": "Right-sized cloud, security, development, and support that make every technology dollar work harder.",
+          "image": "/assets/images/content/photo-1556761175-b413da4baf72.jpg"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Client confidence",
+      "title": "Trusted where growth, uptime, and security matter.",
+      "text": "Long-term partnerships built on clear advice, dependable delivery, and visible outcomes."
+    },
+    "faqs": {
+      "eyebrow": "Common questions",
+      "title": "A clearer way to engage a technology partner.",
+      "items": [
+        {
+          "question": "Can Ace Influence handle both development and cybersecurity?",
+          "answer": "Yes. Our connected practices can design and build a product, assess its security, deploy its infrastructure, and support it after launch."
+        },
+        {
+          "question": "Do you work with internal technology teams?",
+          "answer": "Yes. We can lead an engagement or extend your team with specialized delivery, assurance, monitoring, or advisory capability."
+        },
+        {
+          "question": "Do you support organizations outside Mississauga?",
+          "answer": "Yes. We serve clients across the Greater Toronto Area and Canada through secure remote delivery and coordinated onsite work where needed."
+        },
+        {
+          "question": "Can we start with a small assessment?",
+          "answer": "Absolutely. A focused discovery, UX, architecture, security, cloud, or infrastructure assessment often creates the clearest low-risk starting point."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "A stronger digital foundation starts here",
+      "title": "Have an idea to build or a risk to solve?",
+      "text": "Bring us the opportunity, symptoms, threat, or roadmap. We will help define a practical next step with clear value.",
+      "button": "Book a consultation",
+      "image": "/assets/images/content/photo-1521737711867-e3b97375f902.jpg"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About Ace Influence",
+      "title": "Technology expertise with business context.",
+      "text": "Based in Mississauga, Ace Influence brings software development, cybersecurity, cloud, infrastructure, and managed IT together under one standard: every solution must be secure, supportable, and useful.",
+      "image": "/assets/images/content/photo-1522071820081-009f0129c71c.jpg"
+    },
+    "vision": {
+      "eyebrow": "Our vision",
+      "title": "Digital technology that earns trust every day.",
+      "text": "Ace Influence exists to close the gap between bold ideas and dependable operations. We envision Canadian organizations where secure software accelerates work, infrastructure remains resilient, risk is understood, and every technology decision supports a clear business outcome.",
+      "image": "/assets/images/content/photo-1531482615713-2afd69097998.jpg"
+    },
+    "goals": [
+      {
+        "title": "Create useful digital products",
+        "text": "Turn customer and operational needs into intuitive software that teams can adopt, own, and evolve.",
+        "icon": "Code2"
+      },
+      {
+        "title": "Remove hidden risk",
+        "text": "Make assets, dependencies, vulnerabilities, data flows, and ownership visible before they become incidents.",
+        "icon": "ShieldAlert"
+      },
+      {
+        "title": "Engineer lasting reliability",
+        "text": "Build secure architecture and delivery standards that remain manageable as teams, products, and sites grow.",
+        "icon": "Blocks"
+      },
+      {
+        "title": "Create accountable service",
+        "text": "Give clients direct communication, meaningful reporting, documented environments, and clear next actions.",
+        "icon": "Handshake"
+      }
+    ],
+    "story": {
+      "eyebrow": "Our approach",
+      "title": "Built for organizations that need technology to do more.",
+      "text": "Modern organizations should not have to choose between speed and safety, or between creative product thinking and operational discipline. We formed Ace Influence around connected capabilities so a web platform, identity control, cloud landing zone, network, and support model can be designed as one system.",
+      "image": "/assets/images/content/photo-1522202176988-66273c2fd55f.jpg"
+    },
+    "why": {
+      "eyebrow": "Why choose us",
+      "title": "Senior expertise. Practical delivery. One accountable team.",
+      "items": [
+        {
+          "title": "Integrated by design",
+          "text": "Product, security, cloud, network, data, and support decisions are made as one architecture."
+        },
+        {
+          "title": "Vendor-neutral thinking",
+          "text": "Recommendations start with user needs, requirements, and lifecycle value—not a preferred product catalogue."
+        },
+        {
+          "title": "Security in every layer",
+          "text": "Secure coding, identity, segmentation, hardening, monitoring, privacy, and recovery begin with the first design."
+        },
+        {
+          "title": "Documentation that works",
+          "text": "Your team receives accurate specifications, diagrams, inventories, source code, configurations, runbooks, and practical training."
+        },
+        {
+          "title": "Controlled change",
+          "text": "Prototypes, automated tests, staging, migration plans, rollback paths, and acceptance testing protect continuity."
+        },
+        {
+          "title": "Responsive ownership",
+          "text": "Clear escalation and regular reviews ensure decisions do not disappear between multiple vendors."
+        }
+      ]
+    },
+    "values": {
+      "eyebrow": "What guides us",
+      "title": "Principles visible in the work.",
+      "items": [
+        {
+          "title": "Clarity",
+          "text": "We explain trade-offs in plain language and make ownership explicit."
+        },
+        {
+          "title": "Craft",
+          "text": "We value thoughtful design, clean engineering, rigorous testing, and maintainable outcomes."
+        },
+        {
+          "title": "Security",
+          "text": "We protect client trust through privacy, disciplined access, and secure-by-design decisions."
+        },
+        {
+          "title": "Progress",
+          "text": "We favor measurable improvements and practical roadmaps over unnecessary complexity."
+        }
+      ]
+    },
+    "credentials": {
+      "eyebrow": "Standards & certifications",
+      "title": "Work aligned with recognized practices.",
+      "text": "Our delivery methods draw on established technology, security, privacy, service-management, and accessibility standards.",
+      "items": [
+        {
+          "title": "NIST Cybersecurity Framework",
+          "text": "Risk and control guidance for identifying, protecting, detecting, responding, and recovering.",
+          "image": "/assets/images/content/photo-1563986768609-322da13575f3.jpg"
+        },
+        {
+          "title": "CIS Controls",
+          "text": "Prioritized safeguards used to strengthen real-world cyber hygiene.",
+          "image": "/assets/images/content/photo-1510511459019-5dda7724fd87.jpg"
+        },
+        {
+          "title": "OWASP Practices",
+          "text": "Application security guidance incorporated into design, development, and testing.",
+          "image": "/assets/images/content/photo-1555949963-ff9fe0c870eb.jpg"
+        },
+        {
+          "title": "WCAG Accessibility",
+          "text": "Inclusive experience principles for digital products and content.",
+          "image": "/assets/images/content/photo-1573164713714-d95e436ab8d6.jpg"
+        }
+      ]
+    },
+    "awards": {
+      "eyebrow": "How we measure success",
+      "title": "Recognition starts with client outcomes.",
+      "items": [
+        {
+          "title": "Reliable launches",
+          "text": "Products and platforms released with tested acceptance criteria and accountable support."
+        },
+        {
+          "title": "Stronger resilience",
+          "text": "Reduced exposure, clearer recovery, and greater operational visibility."
+        },
+        {
+          "title": "Lasting capability",
+          "text": "Documentation and knowledge transfer that leave client teams stronger."
+        }
+      ]
+    },
+    "stats": [
+      {
+        "value": "5",
+        "label": "integrated practices"
+      },
+      {
+        "value": "35+",
+        "label": "specialized services"
+      },
+      {
+        "value": "24/7",
+        "label": "monitoring options"
+      },
+      {
+        "value": "Canada",
+        "label": "based and focused"
+      }
+    ],
+    "process": {
+      "eyebrow": "Our delivery method",
+      "title": "A repeatable approach that protects quality, continuity, and control.",
+      "items": [
+        {
+          "number": "01",
+          "title": "Discover",
+          "text": "Align on the problem, people, evidence, risks, and outcomes."
+        },
+        {
+          "number": "02",
+          "title": "Design",
+          "text": "Make experience, architecture, security, scope, and ownership explicit."
+        },
+        {
+          "number": "03",
+          "title": "Deliver",
+          "text": "Build or deploy in controlled increments with visible quality checks."
+        },
+        {
+          "number": "04",
+          "title": "Improve",
+          "text": "Measure adoption and service health, then prioritize what comes next."
+        }
+      ]
+    },
+    "faqs": {
+      "eyebrow": "About working together",
+      "title": "What clients can expect.",
+      "items": [
+        {
+          "question": "Where is Ace Influence based?",
+          "answer": "We are based in Mississauga, Ontario and serve organizations across the Greater Toronto Area and Canada."
+        },
+        {
+          "question": "What size organizations do you work with?",
+          "answer": "We primarily support growing small and mid-sized organizations, as well as focused teams within larger enterprises."
+        },
+        {
+          "question": "Can you take over an existing project or environment?",
+          "answer": "Yes. We begin with structured discovery, documentation, risk review, and a controlled transition plan."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Build with confidence",
+      "title": "Looking for a partner who sees the whole digital system?",
+      "text": "Tell us what is changing in your organization. We will help build and protect the technology it needs.",
+      "button": "Meet Ace Influence"
+    }
+  },
+  "service": {
+    "overviewEyebrow": "Service overview",
+    "overviewTitle": "Designed around your environment—not a generic bundle.",
+    "overviewText": "Every engagement connects technical delivery to users, risk, operations, and measurable business value.",
+    "deliverablesEyebrow": "What is included",
+    "deliverablesTitle": "Clear outputs. No hidden handoffs.",
+    "processEyebrow": "Service-specific delivery",
+    "processTitle": "A controlled path from current state to measurable improvement.",
+    "benefitsEyebrow": "Business outcomes",
+    "benefitsTitle": "What this service unlocks.",
+    "outcomesEyebrow": "Built for impact",
+    "outcomesTitle": "Results your team can use and measure.",
+    "faqEyebrow": "Service questions",
+    "faqTitle": "What to know before we begin.",
+    "relatedEyebrow": "Related services",
+    "relatedTitle": "Strengthen the surrounding layers.",
+    "allCapabilities": "All services",
+    "heroButton": "Discuss this service",
+    "cardLink": "View service",
+    "assurance": [
+      {
+        "title": "Defined scope",
+        "text": "Responsibilities, assumptions, outputs, and acceptance criteria are agreed before delivery."
+      },
+      {
+        "title": "Security built in",
+        "text": "Privacy, access, threat, resilience, and operational risk are considered throughout."
+      },
+      {
+        "title": "Knowledge transferred",
+        "text": "Documentation and practical handover help your team own the result."
+      }
+    ],
+    "cta": {
+      "eyebrow": "Talk to a specialist",
+      "title": "Ready to turn this capability into a stronger business foundation?",
+      "text": "We will review your goals and current environment, then recommend a clear, proportionate next step.",
+      "button": "Request a consultation",
+      "image": "/assets/images/content/photo-1553877522-43269d4ea984.jpg"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact Ace Influence",
+      "title": "Let’s make your next technology decision clearer.",
+      "text": "Tell us what you want to build, what is not working, or where risk is holding you back. A specialist will respond within one business day.",
+      "image": "/assets/images/content/photo-1516321318423-f06f85e504b3.jpg"
+    },
+    "specialties": {
+      "eyebrow": "How we can help",
+      "title": "Complex digital and infrastructure challenges, made actionable.",
+      "items": [
+        "Custom software and web applications",
+        "Cybersecurity assessment and testing",
+        "Cloud and Microsoft 365 modernization",
+        "Network, Wi-Fi, and multi-site connectivity",
+        "Managed support and threat monitoring",
+        "Backup, continuity, and recovery planning",
+        "E-commerce and systems integration",
+        "Identity, endpoint, and access security"
+      ]
+    },
+    "form": {
+      "eyebrow": "Start a conversation",
+      "title": "Share a few details.",
+      "text": "Required fields are marked with an asterisk. We usually reply within one business day.",
+      "submit": "Send enquiry",
+      "success": "Thank you—your enquiry is with our team. We will connect within one business day.",
+      "error": "We could not send your enquiry. Please try again or contact us directly by email.",
+      "image": "/assets/images/content/photo-1497366754035-f200968a6e72.jpg",
+      "labels": {
+        "name": "Full name",
+        "email": "Work email",
+        "phone": "Phone",
+        "service": "Service interested in",
+        "message": "How can we help?",
+        "optional": "optional",
+        "selectService": "Select a service"
+      },
+      "validation": {
+        "name": "Please enter your name.",
+        "email": "Enter a valid email address.",
+        "service": "Choose a service.",
+        "message": "Please enter at least 20 characters."
+      }
+    },
+    "questions": {
+      "eyebrow": "Still have questions?",
+      "title": "Explore the capabilities behind secure digital growth.",
+      "text": "See how development, cybersecurity, cloud, infrastructure, and managed support work together.",
+      "button": "Browse all services",
+      "href": "/#services"
+    },
+    "visit": {
+      "eyebrow": "Location & contact",
+      "title": "Based in Mississauga. Supporting organizations across Canada.",
+      "text": "Connect with us for product development, assessments, projects, managed services, or an independent second opinion on your technology roadmap.",
+      "image": "/assets/images/content/photo-1517090504586-fde19ea6066f.jpg"
+    },
+    "detailsTitle": "Call or email",
+    "hoursTitle": "Working hours",
+    "hours": [
+      "Monday–Friday: 9:00 AM–6:00 PM ET",
+      "Monitoring and emergency response: based on service plan"
+    ],
+    "how": {
+      "eyebrow": "How it works",
+      "title": "Three steps to a useful first conversation.",
+      "items": [
+        {
+          "number": "01",
+          "title": "Share the context",
+          "text": "Tell us the opportunity, current challenge, timeline, and service area."
+        },
+        {
+          "number": "02",
+          "title": "We review",
+          "text": "A relevant specialist reviews your context before reaching out—no generic sales script."
+        },
+        {
+          "number": "03",
+          "title": "We connect within one business day",
+          "text": "We clarify priorities, answer initial questions, and agree on the most useful next step."
+        }
+      ]
+    },
+    "faqs": {
+      "eyebrow": "Before you contact us",
+      "title": "Practical answers for a productive start.",
+      "items": [
+        {
+          "question": "Is the initial consultation free?",
+          "answer": "An initial fit and needs conversation is complimentary. Any paid discovery or assessment is scoped clearly before work begins."
+        },
+        {
+          "question": "Can you sign a confidentiality agreement?",
+          "answer": "Yes. We can review an appropriate mutual NDA before sensitive technical or business information is shared."
+        },
+        {
+          "question": "Do you offer onsite service?",
+          "answer": "Yes. We coordinate onsite work in Mississauga and the Greater Toronto Area, with broader Canadian coverage arranged by engagement."
+        },
+        {
+          "question": "What should I include in my message?",
+          "answer": "A short description of the goal or issue, affected users or systems, urgency, and known deadlines is enough to begin."
+        }
+      ]
+    }
+  },
+  "notFound": {
+    "eyebrow": "404 / Signal lost",
+    "title": "This page is outside the network.",
+    "text": "The address may have changed. Return home to reconnect with Ace Influence.",
+    "button": "Back to home"
+  }
+}

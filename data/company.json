@@ -1,0 +1,17 @@
+{
+  "shortName": "ACE",
+  "tagline": "Secure infrastructure. Uninterrupted business.",
+  "description": "Secure software development, cybersecurity, compliance, cloud, and managed technology services for growing organisations.",
+  "hours": ["Monday–Friday: 9:00 AM–5:00 PM", "Saturday: Closed", "Sunday: Closed"],
+  "socials": [
+    { "label": "LinkedIn", "href": "https://linkedin.com" },
+    { "label": "X", "href": "https://x.com" },
+    { "label": "YouTube", "href": "https://youtube.com" }
+  ],
+  "footerBlurb": "Networking, cybersecurity, cloud, and managed IT engineered around business continuity.",
+  "footerLabels": {
+    "company": "Company & contact",
+    "navigation": "Main pages",
+    "services": "Services"
+  }
+}

@@ -1,0 +1,2528 @@
+{
+  "categories": [
+    {
+      "slug": "development-services",
+      "title": "Development Services",
+      "description": "Secure, scalable digital products and cloud solutions engineered around business outcomes.",
+      "image": "/assets/images/services/photo-1461749280684-dccba630e2f6.jpg",
+      "services": [
+        {
+          "slug": "mobile-app-development",
+          "category": "development-services",
+          "title": "Mobile App Development",
+          "icon": "Smartphone",
+          "summary": "Focused expertise for native-quality iOS and Android experiences, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide native-quality iOS and Android experiences. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1555066931-4365d14bab8c.jpg",
+          "deliverables": [
+            "Mobile App Development scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Discover",
+              "text": "Clarify users, workflows, constraints, integrations, and measurable success."
+            },
+            {
+              "step": "02",
+              "title": "Design",
+              "text": "Validate experience, architecture, security, and delivery decisions."
+            },
+            {
+              "step": "03",
+              "title": "Build",
+              "text": "Deliver tested increments with transparent stakeholder reviews."
+            },
+            {
+              "step": "04",
+              "title": "Launch",
+              "text": "Release safely, measure performance, and plan continuous improvement."
+            }
+          ],
+          "benefits": [
+            "Faster delivery of business value",
+            "Secure and maintainable foundations",
+            "Lower operational friction",
+            "Clear ownership and measurable performance"
+          ],
+          "relatedServices": [
+            "web-app-penetration-testing",
+            "soc-2-readiness-audit",
+            "secure-source-code-review"
+          ],
+          "faqs": [
+            {
+              "question": "What does Mobile App Development cover?",
+              "answer": "The scope centers on native-quality iOS and Android experiences, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "mobile-first teams",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "web-development",
+          "category": "development-services",
+          "title": "Web Development",
+          "icon": "Globe",
+          "summary": "Focused expertise for fast, accessible websites and web platforms, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide fast, accessible websites and web platforms. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1518770660439-4636190af475.jpg",
+          "deliverables": [
+            "Web Development scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Discover",
+              "text": "Clarify users, workflows, constraints, integrations, and measurable success."
+            },
+            {
+              "step": "02",
+              "title": "Design",
+              "text": "Validate experience, architecture, security, and delivery decisions."
+            },
+            {
+              "step": "03",
+              "title": "Build",
+              "text": "Deliver tested increments with transparent stakeholder reviews."
+            },
+            {
+              "step": "04",
+              "title": "Launch",
+              "text": "Release safely, measure performance, and plan continuous improvement."
+            }
+          ],
+          "benefits": [
+            "Faster delivery of business value",
+            "Secure and maintainable foundations",
+            "Lower operational friction",
+            "Clear ownership and measurable performance"
+          ],
+          "relatedServices": [
+            "mobile-app-penetration-testing",
+            "iso-27001-2022-implementation",
+            "os-configuration-review"
+          ],
+          "faqs": [
+            {
+              "question": "What does Web Development cover?",
+              "answer": "The scope centers on fast, accessible websites and web platforms, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations modernizing online journeys",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "custom-app-development",
+          "category": "development-services",
+          "title": "Custom App Development",
+          "icon": "AppWindow",
+          "summary": "Focused expertise for purpose-built applications aligned to complex workflows, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide purpose-built applications aligned to complex workflows. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1563013544-824ae1b704d3.jpg",
+          "deliverables": [
+            "Custom App Development scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Discover",
+              "text": "Clarify users, workflows, constraints, integrations, and measurable success."
+            },
+            {
+              "step": "02",
+              "title": "Design",
+              "text": "Validate experience, architecture, security, and delivery decisions."
+            },
+            {
+              "step": "03",
+              "title": "Build",
+              "text": "Deliver tested increments with transparent stakeholder reviews."
+            },
+            {
+              "step": "04",
+              "title": "Launch",
+              "text": "Release safely, measure performance, and plan continuous improvement."
+            }
+          ],
+          "benefits": [
+            "Faster delivery of business value",
+            "Secure and maintainable foundations",
+            "Lower operational friction",
+            "Clear ownership and measurable performance"
+          ],
+          "relatedServices": [
+            "network-assessment",
+            "gdpr-compliance-audits",
+            "firewall-configuration-review"
+          ],
+          "faqs": [
+            {
+              "question": "What does Custom App Development cover?",
+              "answer": "The scope centers on purpose-built applications aligned to complex workflows, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "teams constrained by off-the-shelf software",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "cloud-services",
+          "category": "development-services",
+          "title": "Cloud Services",
+          "icon": "Cloud",
+          "summary": "Focused expertise for secure cloud foundations, migrations, and managed workloads, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide secure cloud foundations, migrations, and managed workloads. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1550751827-4bd374c3f58b.jpg",
+          "deliverables": [
+            "Cloud Services scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Discover",
+              "text": "Clarify users, workflows, constraints, integrations, and measurable success."
+            },
+            {
+              "step": "02",
+              "title": "Design",
+              "text": "Validate experience, architecture, security, and delivery decisions."
+            },
+            {
+              "step": "03",
+              "title": "Build",
+              "text": "Deliver tested increments with transparent stakeholder reviews."
+            },
+            {
+              "step": "04",
+              "title": "Launch",
+              "text": "Release safely, measure performance, and plan continuous improvement."
+            }
+          ],
+          "benefits": [
+            "Faster delivery of business value",
+            "Secure and maintainable foundations",
+            "Lower operational friction",
+            "Clear ownership and measurable performance"
+          ],
+          "relatedServices": [
+            "vulnerability-assessment",
+            "dpdp-readiness-audits",
+            "network-architecture-review"
+          ],
+          "faqs": [
+            {
+              "question": "What does Cloud Services cover?",
+              "answer": "The scope centers on secure cloud foundations, migrations, and managed workloads, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "businesses adopting or optimizing cloud",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "ui-ux-design",
+          "category": "development-services",
+          "title": "UI/UX Design",
+          "icon": "Palette",
+          "summary": "Focused expertise for research-led interfaces and reusable design systems, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide research-led interfaces and reusable design systems. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1451187580459-43490279c0fa.jpg",
+          "deliverables": [
+            "UI/UX Design scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Discover",
+              "text": "Clarify users, workflows, constraints, integrations, and measurable success."
+            },
+            {
+              "step": "02",
+              "title": "Design",
+              "text": "Validate experience, architecture, security, and delivery decisions."
+            },
+            {
+              "step": "03",
+              "title": "Build",
+              "text": "Deliver tested increments with transparent stakeholder reviews."
+            },
+            {
+              "step": "04",
+              "title": "Launch",
+              "text": "Release safely, measure performance, and plan continuous improvement."
+            }
+          ],
+          "benefits": [
+            "Faster delivery of business value",
+            "Secure and maintainable foundations",
+            "Lower operational friction",
+            "Clear ownership and measurable performance"
+          ],
+          "relatedServices": [
+            "api-security-testing",
+            "hipaa-security-audits",
+            "incident-response"
+          ],
+          "faqs": [
+            {
+              "question": "What does UI/UX Design cover?",
+              "answer": "The scope centers on research-led interfaces and reusable design systems, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "product teams improving adoption",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "api-systems-integration",
+          "category": "development-services",
+          "title": "API & Systems Integration",
+          "icon": "Cable",
+          "summary": "Focused expertise for secure APIs and dependable data flows between platforms, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide secure APIs and dependable data flows between platforms. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1551288049-bebda4e38f71.jpg",
+          "deliverables": [
+            "API & Systems Integration scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Discover",
+              "text": "Clarify users, workflows, constraints, integrations, and measurable success."
+            },
+            {
+              "step": "02",
+              "title": "Design",
+              "text": "Validate experience, architecture, security, and delivery decisions."
+            },
+            {
+              "step": "03",
+              "title": "Build",
+              "text": "Deliver tested increments with transparent stakeholder reviews."
+            },
+            {
+              "step": "04",
+              "title": "Launch",
+              "text": "Release safely, measure performance, and plan continuous improvement."
+            }
+          ],
+          "benefits": [
+            "Faster delivery of business value",
+            "Secure and maintainable foundations",
+            "Lower operational friction",
+            "Clear ownership and measurable performance"
+          ],
+          "relatedServices": [
+            "cloud-security-assessment",
+            "it-control-audit",
+            "devsecops-consulting"
+          ],
+          "faqs": [
+            {
+              "question": "What does API & Systems Integration cover?",
+              "answer": "The scope centers on secure APIs and dependable data flows between platforms, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations eliminating data silos",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "ecommerce-development",
+          "category": "development-services",
+          "title": "E-commerce Development",
+          "icon": "ShoppingCart",
+          "summary": "Focused expertise for conversion-focused storefronts connected to commerce operations, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide conversion-focused storefronts connected to commerce operations. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1497366754035-f200968a6e72.jpg",
+          "deliverables": [
+            "E-commerce Development scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Discover",
+              "text": "Clarify users, workflows, constraints, integrations, and measurable success."
+            },
+            {
+              "step": "02",
+              "title": "Design",
+              "text": "Validate experience, architecture, security, and delivery decisions."
+            },
+            {
+              "step": "03",
+              "title": "Build",
+              "text": "Deliver tested increments with transparent stakeholder reviews."
+            },
+            {
+              "step": "04",
+              "title": "Launch",
+              "text": "Release safely, measure performance, and plan continuous improvement."
+            }
+          ],
+          "benefits": [
+            "Faster delivery of business value",
+            "Secure and maintainable foundations",
+            "Lower operational friction",
+            "Clear ownership and measurable performance"
+          ],
+          "relatedServices": [
+            "red-team-assessment",
+            "third-party-audit-services",
+            "soc-threat-monitoring"
+          ],
+          "faqs": [
+            {
+              "question": "What does E-commerce Development cover?",
+              "answer": "The scope centers on conversion-focused storefronts connected to commerce operations, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "brands growing digital revenue",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "penetration-testing",
+      "title": "Penetration Testing",
+      "description": "Evidence-led offensive security that validates exploitable risk across applications, infrastructure, APIs, and cloud.",
+      "image": "/assets/images/services/photo-1590494165264-1ebe3602eb80.jpg",
+      "services": [
+        {
+          "slug": "web-app-penetration-testing",
+          "category": "penetration-testing",
+          "title": "Web App Penetration Testing",
+          "icon": "GlobeLock",
+          "summary": "Focused expertise for authentication, authorization, sessions, and business logic, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide authentication, authorization, sessions, and business logic. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1521791136064-7986c2920216.jpg",
+          "deliverables": [
+            "Web App Penetration Testing scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Scope",
+              "text": "Agree assets, objectives, access, safety controls, and rules of engagement."
+            },
+            {
+              "step": "02",
+              "title": "Test",
+              "text": "Combine structured coverage with expert-led attack-path validation."
+            },
+            {
+              "step": "03",
+              "title": "Report",
+              "text": "Explain evidence, business impact, root cause, and prioritized remediation."
+            },
+            {
+              "step": "04",
+              "title": "Retest",
+              "text": "Verify fixes and issue clear closure evidence for stakeholders."
+            }
+          ],
+          "benefits": [
+            "Validated real-world exposure",
+            "Risk-based remediation priorities",
+            "Stronger security engineering decisions",
+            "Credible assurance evidence"
+          ],
+          "relatedServices": [
+            "soc-2-readiness-audit",
+            "secure-source-code-review",
+            "phishing-simulation"
+          ],
+          "faqs": [
+            {
+              "question": "What does Web App Penetration Testing cover?",
+              "answer": "The scope centers on authentication, authorization, sessions, and business logic, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "teams releasing internet-facing applications",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "mobile-app-penetration-testing",
+          "category": "penetration-testing",
+          "title": "Mobile App Penetration Testing",
+          "icon": "Smartphone",
+          "summary": "Focused expertise for mobile binaries, storage, transport, APIs, and platform controls, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide mobile binaries, storage, transport, APIs, and platform controls. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1555066931-4365d14bab8c.jpg",
+          "deliverables": [
+            "Mobile App Penetration Testing scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Scope",
+              "text": "Agree assets, objectives, access, safety controls, and rules of engagement."
+            },
+            {
+              "step": "02",
+              "title": "Test",
+              "text": "Combine structured coverage with expert-led attack-path validation."
+            },
+            {
+              "step": "03",
+              "title": "Report",
+              "text": "Explain evidence, business impact, root cause, and prioritized remediation."
+            },
+            {
+              "step": "04",
+              "title": "Retest",
+              "text": "Verify fixes and issue clear closure evidence for stakeholders."
+            }
+          ],
+          "benefits": [
+            "Validated real-world exposure",
+            "Risk-based remediation priorities",
+            "Stronger security engineering decisions",
+            "Credible assurance evidence"
+          ],
+          "relatedServices": [
+            "iso-27001-2022-implementation",
+            "os-configuration-review",
+            "bad-usb-simulation"
+          ],
+          "faqs": [
+            {
+              "question": "What does Mobile App Penetration Testing cover?",
+              "answer": "The scope centers on mobile binaries, storage, transport, APIs, and platform controls, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations shipping iOS or Android apps",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "network-assessment",
+          "category": "penetration-testing",
+          "title": "Network Assessment",
+          "icon": "Network",
+          "summary": "Focused expertise for internal and external exposure, segmentation, and attack paths, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide internal and external exposure, segmentation, and attack paths. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1518770660439-4636190af475.jpg",
+          "deliverables": [
+            "Network Assessment scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Scope",
+              "text": "Agree assets, objectives, access, safety controls, and rules of engagement."
+            },
+            {
+              "step": "02",
+              "title": "Test",
+              "text": "Combine structured coverage with expert-led attack-path validation."
+            },
+            {
+              "step": "03",
+              "title": "Report",
+              "text": "Explain evidence, business impact, root cause, and prioritized remediation."
+            },
+            {
+              "step": "04",
+              "title": "Retest",
+              "text": "Verify fixes and issue clear closure evidence for stakeholders."
+            }
+          ],
+          "benefits": [
+            "Validated real-world exposure",
+            "Risk-based remediation priorities",
+            "Stronger security engineering decisions",
+            "Credible assurance evidence"
+          ],
+          "relatedServices": [
+            "gdpr-compliance-audits",
+            "firewall-configuration-review",
+            "employee-security-awareness"
+          ],
+          "faqs": [
+            {
+              "question": "What does Network Assessment cover?",
+              "answer": "The scope centers on internal and external exposure, segmentation, and attack paths, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "businesses operating hybrid networks",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "vulnerability-assessment",
+          "category": "penetration-testing",
+          "title": "Vulnerability Assessment",
+          "icon": "ScanSearch",
+          "summary": "Focused expertise for authenticated discovery and validation of technical weaknesses, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide authenticated discovery and validation of technical weaknesses. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1563013544-824ae1b704d3.jpg",
+          "deliverables": [
+            "Vulnerability Assessment scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Scope",
+              "text": "Agree assets, objectives, access, safety controls, and rules of engagement."
+            },
+            {
+              "step": "02",
+              "title": "Test",
+              "text": "Combine structured coverage with expert-led attack-path validation."
+            },
+            {
+              "step": "03",
+              "title": "Report",
+              "text": "Explain evidence, business impact, root cause, and prioritized remediation."
+            },
+            {
+              "step": "04",
+              "title": "Retest",
+              "text": "Verify fixes and issue clear closure evidence for stakeholders."
+            }
+          ],
+          "benefits": [
+            "Validated real-world exposure",
+            "Risk-based remediation priorities",
+            "Stronger security engineering decisions",
+            "Credible assurance evidence"
+          ],
+          "relatedServices": [
+            "dpdp-readiness-audits",
+            "network-architecture-review",
+            "professional-cyber-training"
+          ],
+          "faqs": [
+            {
+              "question": "What does Vulnerability Assessment cover?",
+              "answer": "The scope centers on authenticated discovery and validation of technical weaknesses, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations needing recurring assurance",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "api-security-testing",
+          "category": "penetration-testing",
+          "title": "API Security Testing",
+          "icon": "Braces",
+          "summary": "Focused expertise for authorization, input handling, rate controls, and API data exposure, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide authorization, input handling, rate controls, and API data exposure. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1550751827-4bd374c3f58b.jpg",
+          "deliverables": [
+            "API Security Testing scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Scope",
+              "text": "Agree assets, objectives, access, safety controls, and rules of engagement."
+            },
+            {
+              "step": "02",
+              "title": "Test",
+              "text": "Combine structured coverage with expert-led attack-path validation."
+            },
+            {
+              "step": "03",
+              "title": "Report",
+              "text": "Explain evidence, business impact, root cause, and prioritized remediation."
+            },
+            {
+              "step": "04",
+              "title": "Retest",
+              "text": "Verify fixes and issue clear closure evidence for stakeholders."
+            }
+          ],
+          "benefits": [
+            "Validated real-world exposure",
+            "Risk-based remediation priorities",
+            "Stronger security engineering decisions",
+            "Credible assurance evidence"
+          ],
+          "relatedServices": [
+            "hipaa-security-audits",
+            "incident-response",
+            "phishing-simulation"
+          ],
+          "faqs": [
+            {
+              "question": "What does API Security Testing cover?",
+              "answer": "The scope centers on authorization, input handling, rate controls, and API data exposure, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "platforms exchanging sensitive data",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "cloud-security-assessment",
+          "category": "penetration-testing",
+          "title": "Cloud Security Assessment",
+          "icon": "CloudCog",
+          "summary": "Focused expertise for identity, configuration, workload, data, and cloud logging controls, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide identity, configuration, workload, data, and cloud logging controls. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1451187580459-43490279c0fa.jpg",
+          "deliverables": [
+            "Cloud Security Assessment scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Scope",
+              "text": "Agree assets, objectives, access, safety controls, and rules of engagement."
+            },
+            {
+              "step": "02",
+              "title": "Test",
+              "text": "Combine structured coverage with expert-led attack-path validation."
+            },
+            {
+              "step": "03",
+              "title": "Report",
+              "text": "Explain evidence, business impact, root cause, and prioritized remediation."
+            },
+            {
+              "step": "04",
+              "title": "Retest",
+              "text": "Verify fixes and issue clear closure evidence for stakeholders."
+            }
+          ],
+          "benefits": [
+            "Validated real-world exposure",
+            "Risk-based remediation priorities",
+            "Stronger security engineering decisions",
+            "Credible assurance evidence"
+          ],
+          "relatedServices": [
+            "it-control-audit",
+            "devsecops-consulting",
+            "bad-usb-simulation"
+          ],
+          "faqs": [
+            {
+              "question": "What does Cloud Security Assessment cover?",
+              "answer": "The scope centers on identity, configuration, workload, data, and cloud logging controls, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "Azure, AWS, and multi-cloud teams",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "red-team-assessment",
+          "category": "penetration-testing",
+          "title": "Red Team Assessment",
+          "icon": "Crosshair",
+          "summary": "Focused expertise for objective-led adversary simulation across people, process, and technology, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide objective-led adversary simulation across people, process, and technology. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1551288049-bebda4e38f71.jpg",
+          "deliverables": [
+            "Red Team Assessment scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Scope",
+              "text": "Agree assets, objectives, access, safety controls, and rules of engagement."
+            },
+            {
+              "step": "02",
+              "title": "Test",
+              "text": "Combine structured coverage with expert-led attack-path validation."
+            },
+            {
+              "step": "03",
+              "title": "Report",
+              "text": "Explain evidence, business impact, root cause, and prioritized remediation."
+            },
+            {
+              "step": "04",
+              "title": "Retest",
+              "text": "Verify fixes and issue clear closure evidence for stakeholders."
+            }
+          ],
+          "benefits": [
+            "Validated real-world exposure",
+            "Risk-based remediation priorities",
+            "Stronger security engineering decisions",
+            "Credible assurance evidence"
+          ],
+          "relatedServices": [
+            "third-party-audit-services",
+            "soc-threat-monitoring",
+            "employee-security-awareness"
+          ],
+          "faqs": [
+            {
+              "question": "What does Red Team Assessment cover?",
+              "answer": "The scope centers on objective-led adversary simulation across people, process, and technology, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "mature security programs seeking operational proof",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "governance-risk-compliance",
+      "title": "Governance, Risk & Compliance",
+      "description": "Practical governance, audit, privacy, and compliance programs that turn obligations into durable controls.",
+      "image": "/assets/images/services/photo-1454165804606-c3d57bc86b40.jpg",
+      "services": [
+        {
+          "slug": "soc-2-readiness-audit",
+          "category": "governance-risk-compliance",
+          "title": "SOC 2 Type I & II Readiness & Audit",
+          "icon": "FileCheck2",
+          "summary": "Focused expertise for Trust Services Criteria scoping, controls, evidence, and audit readiness, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide Trust Services Criteria scoping, controls, evidence, and audit readiness. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1497366754035-f200968a6e72.jpg",
+          "deliverables": [
+            "SOC 2 Type I & II Readiness & Audit scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "secure-source-code-review",
+            "phishing-simulation",
+            "mobile-app-development"
+          ],
+          "faqs": [
+            {
+              "question": "What does SOC 2 Type I & II Readiness & Audit cover?",
+              "answer": "The scope centers on Trust Services Criteria scoping, controls, evidence, and audit readiness, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "service organizations answering customer assurance demands",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "iso-27001-2022-implementation",
+          "category": "governance-risk-compliance",
+          "title": "ISO 27001:2022 Implementation",
+          "icon": "BadgeCheck",
+          "summary": "Focused expertise for ISMS scope, risk treatment, controls, and certification readiness, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide ISMS scope, risk treatment, controls, and certification readiness. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1521791136064-7986c2920216.jpg",
+          "deliverables": [
+            "ISO 27001:2022 Implementation scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "os-configuration-review",
+            "bad-usb-simulation",
+            "web-development"
+          ],
+          "faqs": [
+            {
+              "question": "What does ISO 27001:2022 Implementation cover?",
+              "answer": "The scope centers on ISMS scope, risk treatment, controls, and certification readiness, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations pursuing security certification",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "gdpr-compliance-audits",
+          "category": "governance-risk-compliance",
+          "title": "GDPR Compliance Audits",
+          "icon": "Scale",
+          "summary": "Focused expertise for lawful processing, rights, transfers, records, and privacy controls, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide lawful processing, rights, transfers, records, and privacy controls. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1555066931-4365d14bab8c.jpg",
+          "deliverables": [
+            "GDPR Compliance Audits scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "firewall-configuration-review",
+            "employee-security-awareness",
+            "custom-app-development"
+          ],
+          "faqs": [
+            {
+              "question": "What does GDPR Compliance Audits cover?",
+              "answer": "The scope centers on lawful processing, rights, transfers, records, and privacy controls, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations processing EU personal data",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "dpdp-readiness-audits",
+          "category": "governance-risk-compliance",
+          "title": "DPDP Readiness Audits",
+          "icon": "Landmark",
+          "summary": "Focused expertise for Indian DPDP obligations, consent, notices, rights, processors, and safeguards, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide Indian DPDP obligations, consent, notices, rights, processors, and safeguards. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1518770660439-4636190af475.jpg",
+          "deliverables": [
+            "DPDP Readiness Audits scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "network-architecture-review",
+            "professional-cyber-training",
+            "cloud-services"
+          ],
+          "faqs": [
+            {
+              "question": "What does DPDP Readiness Audits cover?",
+              "answer": "The scope centers on Indian DPDP obligations, consent, notices, rights, processors, and safeguards, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations handling digital personal data in India",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "hipaa-security-audits",
+          "category": "governance-risk-compliance",
+          "title": "HIPAA Security Audits",
+          "icon": "HeartPulse",
+          "summary": "Focused expertise for administrative, physical, and technical safeguards for ePHI, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide administrative, physical, and technical safeguards for ePHI. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1563013544-824ae1b704d3.jpg",
+          "deliverables": [
+            "HIPAA Security Audits scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "incident-response",
+            "phishing-simulation",
+            "ui-ux-design"
+          ],
+          "faqs": [
+            {
+              "question": "What does HIPAA Security Audits cover?",
+              "answer": "The scope centers on administrative, physical, and technical safeguards for ePHI, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "healthcare entities and business associates",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "it-control-audit",
+          "category": "governance-risk-compliance",
+          "title": "IT Control Audit",
+          "icon": "ClipboardCheck",
+          "summary": "Focused expertise for access, change, operations, backup, and IT oversight controls, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide access, change, operations, backup, and IT oversight controls. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1550751827-4bd374c3f58b.jpg",
+          "deliverables": [
+            "IT Control Audit scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "devsecops-consulting",
+            "bad-usb-simulation",
+            "api-systems-integration"
+          ],
+          "faqs": [
+            {
+              "question": "What does IT Control Audit cover?",
+              "answer": "The scope centers on access, change, operations, backup, and IT oversight controls, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations strengthening financial or operational assurance",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "third-party-audit-services",
+          "category": "governance-risk-compliance",
+          "title": "Third-Party Audit Services",
+          "icon": "Building2",
+          "summary": "Focused expertise for supplier due diligence, control validation, and ongoing risk governance, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide supplier due diligence, control validation, and ongoing risk governance. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1451187580459-43490279c0fa.jpg",
+          "deliverables": [
+            "Third-Party Audit Services scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "soc-threat-monitoring",
+            "employee-security-awareness",
+            "ecommerce-development"
+          ],
+          "faqs": [
+            {
+              "question": "What does Third-Party Audit Services cover?",
+              "answer": "The scope centers on supplier due diligence, control validation, and ongoing risk governance, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "businesses dependent on external providers",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "cert-in-audit-services",
+          "category": "governance-risk-compliance",
+          "title": "CERT-In Audit Services",
+          "icon": "ShieldCheck",
+          "summary": "Focused expertise for CERT-In aligned assessment, evidence, remediation, and audit coordination, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide CERT-In aligned assessment, evidence, remediation, and audit coordination. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1551288049-bebda4e38f71.jpg",
+          "deliverables": [
+            "CERT-In Audit Services scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "digital-forensics",
+            "professional-cyber-training",
+            "mobile-app-development"
+          ],
+          "faqs": [
+            {
+              "question": "What does CERT-In Audit Services cover?",
+              "answer": "The scope centers on CERT-In aligned assessment, evidence, remediation, and audit coordination, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "Indian organizations requiring audit support",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "data-privacy-consulting",
+          "category": "governance-risk-compliance",
+          "title": "Data Privacy Consulting",
+          "icon": "LockKeyhole",
+          "summary": "Focused expertise for privacy governance, data mapping, impact assessments, and privacy-by-design, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide privacy governance, data mapping, impact assessments, and privacy-by-design. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1497366754035-f200968a6e72.jpg",
+          "deliverables": [
+            "Data Privacy Consulting scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "secure-source-code-review",
+            "phishing-simulation",
+            "web-development"
+          ],
+          "faqs": [
+            {
+              "question": "What does Data Privacy Consulting cover?",
+              "answer": "The scope centers on privacy governance, data mapping, impact assessments, and privacy-by-design, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "teams managing complex personal-data obligations",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "virtual-ciso-services",
+          "category": "governance-risk-compliance",
+          "title": "Virtual CISO Services",
+          "icon": "UserCheck",
+          "summary": "Focused expertise for fractional security leadership, risk governance, metrics, and reporting, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide fractional security leadership, risk governance, metrics, and reporting. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1521791136064-7986c2920216.jpg",
+          "deliverables": [
+            "Virtual CISO Services scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Define",
+              "text": "Confirm scope, obligations, stakeholders, systems, and assurance criteria."
+            },
+            {
+              "step": "02",
+              "title": "Assess",
+              "text": "Review documentation, interviews, configurations, samples, and evidence."
+            },
+            {
+              "step": "03",
+              "title": "Improve",
+              "text": "Design proportionate controls and assign practical remediation ownership."
+            },
+            {
+              "step": "04",
+              "title": "Assure",
+              "text": "Validate implementation, package evidence, and establish ongoing governance."
+            }
+          ],
+          "benefits": [
+            "Clear accountability and evidence",
+            "Reduced compliance uncertainty",
+            "Controls aligned to business risk",
+            "Greater customer and regulator confidence"
+          ],
+          "relatedServices": [
+            "os-configuration-review",
+            "bad-usb-simulation",
+            "custom-app-development"
+          ],
+          "faqs": [
+            {
+              "question": "What does Virtual CISO Services cover?",
+              "answer": "The scope centers on fractional security leadership, risk governance, metrics, and reporting, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "growing organizations needing senior security direction",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cybersecurity-operations",
+      "title": "Cybersecurity Operations",
+      "description": "Hands-on security engineering, monitoring, response, and assurance for resilient day-to-day operations.",
+      "image": "/assets/images/services/photo-1563986768609-322da13575f3.jpg",
+      "services": [
+        {
+          "slug": "secure-source-code-review",
+          "category": "cybersecurity-operations",
+          "title": "Secure Source Code Review",
+          "icon": "Code2",
+          "summary": "Focused expertise for security-critical code paths, dependencies, and implementation flaws, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide security-critical code paths, dependencies, and implementation flaws. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1555066931-4365d14bab8c.jpg",
+          "deliverables": [
+            "Secure Source Code Review scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "phishing-simulation",
+            "mobile-app-development",
+            "web-app-penetration-testing"
+          ],
+          "faqs": [
+            {
+              "question": "What does Secure Source Code Review cover?",
+              "answer": "The scope centers on security-critical code paths, dependencies, and implementation flaws, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "engineering teams protecting critical applications",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "os-configuration-review",
+          "category": "cybersecurity-operations",
+          "title": "OS Configuration Review",
+          "icon": "Settings",
+          "summary": "Focused expertise for server and endpoint hardening against approved baselines, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide server and endpoint hardening against approved baselines. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1518770660439-4636190af475.jpg",
+          "deliverables": [
+            "OS Configuration Review scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "bad-usb-simulation",
+            "web-development",
+            "mobile-app-penetration-testing"
+          ],
+          "faqs": [
+            {
+              "question": "What does OS Configuration Review cover?",
+              "answer": "The scope centers on server and endpoint hardening against approved baselines, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "teams operating Windows or Linux estates",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "firewall-configuration-review",
+          "category": "cybersecurity-operations",
+          "title": "Firewall Configuration Review",
+          "icon": "Shield",
+          "summary": "Focused expertise for rules, objects, administration, logging, and firewall change hygiene, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide rules, objects, administration, logging, and firewall change hygiene. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1563013544-824ae1b704d3.jpg",
+          "deliverables": [
+            "Firewall Configuration Review scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "employee-security-awareness",
+            "custom-app-development",
+            "network-assessment"
+          ],
+          "faqs": [
+            {
+              "question": "What does Firewall Configuration Review cover?",
+              "answer": "The scope centers on rules, objects, administration, logging, and firewall change hygiene, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations with complex firewall estates",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "network-architecture-review",
+          "category": "cybersecurity-operations",
+          "title": "Network Architecture Review",
+          "icon": "Network",
+          "summary": "Focused expertise for segmentation, trust boundaries, resilience, and remote access, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide segmentation, trust boundaries, resilience, and remote access. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1550751827-4bd374c3f58b.jpg",
+          "deliverables": [
+            "Network Architecture Review scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "professional-cyber-training",
+            "cloud-services",
+            "vulnerability-assessment"
+          ],
+          "faqs": [
+            {
+              "question": "What does Network Architecture Review cover?",
+              "answer": "The scope centers on segmentation, trust boundaries, resilience, and remote access, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations redesigning hybrid connectivity",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "incident-response",
+          "category": "cybersecurity-operations",
+          "title": "Incident Response",
+          "icon": "Siren",
+          "summary": "Focused expertise for rapid triage, containment, eradication, recovery, and coordination, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide rapid triage, containment, eradication, recovery, and coordination. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1451187580459-43490279c0fa.jpg",
+          "deliverables": [
+            "Incident Response scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "phishing-simulation",
+            "ui-ux-design",
+            "api-security-testing"
+          ],
+          "faqs": [
+            {
+              "question": "What does Incident Response cover?",
+              "answer": "The scope centers on rapid triage, containment, eradication, recovery, and coordination, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations facing or preparing for cyber incidents",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "devsecops-consulting",
+          "category": "cybersecurity-operations",
+          "title": "DevSecOps Consulting",
+          "icon": "GitBranch",
+          "summary": "Focused expertise for security guardrails across code, pipelines, infrastructure, and releases, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide security guardrails across code, pipelines, infrastructure, and releases. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1551288049-bebda4e38f71.jpg",
+          "deliverables": [
+            "DevSecOps Consulting scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "bad-usb-simulation",
+            "api-systems-integration",
+            "cloud-security-assessment"
+          ],
+          "faqs": [
+            {
+              "question": "What does DevSecOps Consulting cover?",
+              "answer": "The scope centers on security guardrails across code, pipelines, infrastructure, and releases, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "software teams scaling secure delivery",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "soc-threat-monitoring",
+          "category": "cybersecurity-operations",
+          "title": "SOC & Threat Monitoring",
+          "icon": "Activity",
+          "summary": "Focused expertise for continuous detection, investigation, escalation, and threat-informed tuning, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide continuous detection, investigation, escalation, and threat-informed tuning. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1497366754035-f200968a6e72.jpg",
+          "deliverables": [
+            "SOC & Threat Monitoring scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "employee-security-awareness",
+            "ecommerce-development",
+            "red-team-assessment"
+          ],
+          "faqs": [
+            {
+              "question": "What does SOC & Threat Monitoring cover?",
+              "answer": "The scope centers on continuous detection, investigation, escalation, and threat-informed tuning, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "teams needing continuous security coverage",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "digital-forensics",
+          "category": "cybersecurity-operations",
+          "title": "Digital Forensics",
+          "icon": "Search",
+          "summary": "Focused expertise for sound acquisition and analysis of endpoints, accounts, logs, and cloud evidence, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide sound acquisition and analysis of endpoints, accounts, logs, and cloud evidence. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1521791136064-7986c2920216.jpg",
+          "deliverables": [
+            "Digital Forensics scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Baseline",
+              "text": "Map assets, threats, architecture, ownership, and current safeguards."
+            },
+            {
+              "step": "02",
+              "title": "Analyze",
+              "text": "Gather technical evidence and distinguish material risk from noise."
+            },
+            {
+              "step": "03",
+              "title": "Strengthen",
+              "text": "Implement or guide prioritized, controlled security improvements."
+            },
+            {
+              "step": "04",
+              "title": "Sustain",
+              "text": "Validate results, monitor effectiveness, and maintain operational readiness."
+            }
+          ],
+          "benefits": [
+            "Reduced attack surface",
+            "Faster detection and response",
+            "Consistent security operations",
+            "Actionable technical evidence"
+          ],
+          "relatedServices": [
+            "professional-cyber-training",
+            "mobile-app-development",
+            "web-app-penetration-testing"
+          ],
+          "faqs": [
+            {
+              "question": "What does Digital Forensics cover?",
+              "answer": "The scope centers on sound acquisition and analysis of endpoints, accounts, logs, and cloud evidence, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "legal, HR, insurance, and response stakeholders",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "training-awareness",
+      "title": "Training & Awareness",
+      "description": "Realistic exercises and role-based learning that build secure habits and measurable human resilience.",
+      "image": "/assets/images/services/photo-1524178232363-1fb2b075b655.jpg",
+      "services": [
+        {
+          "slug": "phishing-simulation",
+          "category": "training-awareness",
+          "title": "Phishing Simulation",
+          "icon": "MailWarning",
+          "summary": "Focused expertise for controlled phishing campaigns tailored to realistic threats, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide controlled phishing campaigns tailored to realistic threats. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1555066931-4365d14bab8c.jpg",
+          "deliverables": [
+            "Phishing Simulation scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Plan",
+              "text": "Define audiences, threat scenarios, learning goals, and safe boundaries."
+            },
+            {
+              "step": "02",
+              "title": "Deliver",
+              "text": "Run realistic, accessible activities with clear participant support."
+            },
+            {
+              "step": "03",
+              "title": "Measure",
+              "text": "Analyze behavior, reporting, knowledge, and role-specific risk patterns."
+            },
+            {
+              "step": "04",
+              "title": "Reinforce",
+              "text": "Target follow-up coaching and track improvement over time."
+            }
+          ],
+          "benefits": [
+            "Safer everyday decisions",
+            "Earlier reporting of suspicious activity",
+            "Measurable behavior change",
+            "Stronger shared security culture"
+          ],
+          "relatedServices": [
+            "mobile-app-development",
+            "web-app-penetration-testing",
+            "soc-2-readiness-audit"
+          ],
+          "faqs": [
+            {
+              "question": "What does Phishing Simulation cover?",
+              "answer": "The scope centers on controlled phishing campaigns tailored to realistic threats, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations reducing email-driven risk",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "bad-usb-simulation",
+          "category": "training-awareness",
+          "title": "Bad USB Simulation",
+          "icon": "Usb",
+          "summary": "Focused expertise for safe testing of removable-media curiosity and reporting behavior, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide safe testing of removable-media curiosity and reporting behavior. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1518770660439-4636190af475.jpg",
+          "deliverables": [
+            "Bad USB Simulation scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Plan",
+              "text": "Define audiences, threat scenarios, learning goals, and safe boundaries."
+            },
+            {
+              "step": "02",
+              "title": "Deliver",
+              "text": "Run realistic, accessible activities with clear participant support."
+            },
+            {
+              "step": "03",
+              "title": "Measure",
+              "text": "Analyze behavior, reporting, knowledge, and role-specific risk patterns."
+            },
+            {
+              "step": "04",
+              "title": "Reinforce",
+              "text": "Target follow-up coaching and track improvement over time."
+            }
+          ],
+          "benefits": [
+            "Safer everyday decisions",
+            "Earlier reporting of suspicious activity",
+            "Measurable behavior change",
+            "Stronger shared security culture"
+          ],
+          "relatedServices": [
+            "web-development",
+            "mobile-app-penetration-testing",
+            "iso-27001-2022-implementation"
+          ],
+          "faqs": [
+            {
+              "question": "What does Bad USB Simulation cover?",
+              "answer": "The scope centers on safe testing of removable-media curiosity and reporting behavior, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "workplaces assessing human and physical controls",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "employee-security-awareness",
+          "category": "training-awareness",
+          "title": "Employee Security Awareness",
+          "icon": "Users",
+          "summary": "Focused expertise for engaging role-relevant learning reinforced throughout the year, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide engaging role-relevant learning reinforced throughout the year. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1563013544-824ae1b704d3.jpg",
+          "deliverables": [
+            "Employee Security Awareness scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Plan",
+              "text": "Define audiences, threat scenarios, learning goals, and safe boundaries."
+            },
+            {
+              "step": "02",
+              "title": "Deliver",
+              "text": "Run realistic, accessible activities with clear participant support."
+            },
+            {
+              "step": "03",
+              "title": "Measure",
+              "text": "Analyze behavior, reporting, knowledge, and role-specific risk patterns."
+            },
+            {
+              "step": "04",
+              "title": "Reinforce",
+              "text": "Target follow-up coaching and track improvement over time."
+            }
+          ],
+          "benefits": [
+            "Safer everyday decisions",
+            "Earlier reporting of suspicious activity",
+            "Measurable behavior change",
+            "Stronger shared security culture"
+          ],
+          "relatedServices": [
+            "custom-app-development",
+            "network-assessment",
+            "gdpr-compliance-audits"
+          ],
+          "faqs": [
+            {
+              "question": "What does Employee Security Awareness cover?",
+              "answer": "The scope centers on engaging role-relevant learning reinforced throughout the year, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "organizations building a security-first culture",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        },
+        {
+          "slug": "professional-cyber-training",
+          "category": "training-awareness",
+          "title": "Professional Cyber Training",
+          "icon": "GraduationCap",
+          "summary": "Focused expertise for hands-on technical and governance training for security responsibilities, delivered with clear evidence and accountable outcomes.",
+          "description": "We provide hands-on technical and governance training for security responsibilities. The engagement is tailored to your environment, risk, and priorities, producing specific recommendations and a practical path from findings to sustained improvement.",
+          "heroImage": "/assets/images/services/photo-1550751827-4bd374c3f58b.jpg",
+          "deliverables": [
+            "Professional Cyber Training scope and success criteria",
+            "Current-state evidence review",
+            "Risk and requirements analysis",
+            "Prioritized recommendations",
+            "Implementation-ready action plan",
+            "Executive and technical handover"
+          ],
+          "process": [
+            {
+              "step": "01",
+              "title": "Plan",
+              "text": "Define audiences, threat scenarios, learning goals, and safe boundaries."
+            },
+            {
+              "step": "02",
+              "title": "Deliver",
+              "text": "Run realistic, accessible activities with clear participant support."
+            },
+            {
+              "step": "03",
+              "title": "Measure",
+              "text": "Analyze behavior, reporting, knowledge, and role-specific risk patterns."
+            },
+            {
+              "step": "04",
+              "title": "Reinforce",
+              "text": "Target follow-up coaching and track improvement over time."
+            }
+          ],
+          "benefits": [
+            "Safer everyday decisions",
+            "Earlier reporting of suspicious activity",
+            "Measurable behavior change",
+            "Stronger shared security culture"
+          ],
+          "relatedServices": [
+            "cloud-services",
+            "vulnerability-assessment",
+            "dpdp-readiness-audits"
+          ],
+          "faqs": [
+            {
+              "question": "What does Professional Cyber Training cover?",
+              "answer": "The scope centers on hands-on technical and governance training for security responsibilities, with boundaries, stakeholders, and evidence requirements agreed before work begins."
+            },
+            {
+              "question": "What will we receive?",
+              "answer": "You receive concise executive context, detailed findings, prioritized actions, and a practical handover for responsible teams."
+            },
+            {
+              "question": "Can you support remediation or next steps?",
+              "answer": "Yes. We can clarify findings, advise owners, validate completed actions, and help establish sustainable governance."
+            }
+          ],
+          "idealFor": [
+            "IT, engineering, audit, and security professionals",
+            "organizations needing independent assurance",
+            "leaders seeking clear, prioritized action"
+          ]
+        }
+      ]
+    }
+  ]
+}

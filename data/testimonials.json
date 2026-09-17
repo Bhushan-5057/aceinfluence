@@ -1,0 +1,74 @@
+[
+  {
+    "quote": "Ace Influence redesigned our head-office and branch network without disrupting operations. The documentation, migration planning, and follow-through were as strong as the technical work.",
+    "name": "Daniel Chen",
+    "role": "Chief Operating Officer",
+    "company": "Meridian Distribution",
+    "industry": "Logistics & Distribution",
+    "image": "/assets/images/testimonials/photo-1560250097-0b93528c311a.jpg",
+    "rating": 5
+  },
+  {
+    "quote": "Their security assessment gave our leadership team a clear view of risk for the first time. We had a prioritized roadmap, immediate protections, and no unnecessary product pressure.",
+    "name": "Amelia Martin",
+    "role": "Director of Operations",
+    "company": "Helix Advisory Group",
+    "industry": "Professional Services",
+    "image": "/assets/images/testimonials/photo-1573496359142-b8d87734a5a2.jpg",
+    "rating": 5
+  },
+  {
+    "quote": "Moving support and monitoring to Ace Influence reduced recurring outages and gave our internal team room to focus on the business. Ownership is clear and response is consistently excellent.",
+    "name": "Marcus Thompson",
+    "role": "VP, Finance",
+    "company": "Northstar Fabrication",
+    "industry": "Manufacturing",
+    "image": "/assets/images/testimonials/photo-1566492031773-4f4e44671857.jpg",
+    "rating": 5
+  },
+  {
+    "quote": "From Wi-Fi coverage to meeting rooms and access control, they treated our new Mississauga office as one connected system. Our staff were productive from day one.",
+    "name": "Sofia Patel",
+    "role": "People & Operations Lead",
+    "company": "Verity Works",
+    "industry": "Business Services",
+    "image": "/assets/images/testimonials/photo-1580489944761-15a19d654956.jpg",
+    "rating": 5
+  },
+  {
+    "quote": "They turned a complicated manual process into a web platform our customers and staff understood immediately. Delivery was transparent, security was considered early, and the launch was calm.",
+    "name": "Olivia Tremblay",
+    "role": "VP, Customer Experience",
+    "company": "Clearpath Benefits",
+    "industry": "Financial Services",
+    "image": "/assets/images/testimonials/photo-1551836022-d5d88e9218df.jpg",
+    "rating": 5
+  },
+  {
+    "quote": "Our e-commerce rebuild finally connected the storefront, inventory, and fulfillment teams. We gained a faster site, cleaner reporting, and far fewer order exceptions.",
+    "name": "Ethan Wilson",
+    "role": "Director of Digital Commerce",
+    "company": "Cedar & Coast",
+    "industry": "Retail & E-commerce",
+    "image": "/assets/images/testimonials/photo-1500648767791-00dcc994a43e.jpg",
+    "rating": 5
+  },
+  {
+    "quote": "The Microsoft 365 migration was structured around our people, not just the technology. Training, governance, and responsive support made adoption much smoother than we expected.",
+    "name": "Nadia Hassan",
+    "role": "Executive Director",
+    "company": "Community Forward Canada",
+    "industry": "Nonprofit",
+    "image": "/assets/images/testimonials/photo-1534751516642-a1af1ef26a56.jpg",
+    "rating": 5
+  },
+  {
+    "quote": "Their penetration test went beyond a list of scanner findings. The team demonstrated real attack paths, explained the business impact clearly, and worked with our developers through remediation.",
+    "name": "Lucas Bernard",
+    "role": "Chief Technology Officer",
+    "company": "Mapleline Software",
+    "industry": "Software & SaaS",
+    "image": "/assets/images/testimonials/photo-1507003211169-0a1dd7228f2d.jpg",
+    "rating": 5
+  }
+]
